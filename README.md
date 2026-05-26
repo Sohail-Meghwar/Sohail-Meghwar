@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, JSP, and Servlets projects using Spring Boot and SQL.<br>👯 I’m looking to collaborate on open source Java projects.     <br>💬 Ask me about Java, Spring Boot, REST APIs and SQL.<br>⚡ Fun fact: I enjoy solving coding challenges and exploring new Java libraries in my free time.  <br>
+🔭 Currently working on Java, Spring Boot, Spring AI, Hibernate, and SQL-based backend applications.<br>
+🌱 Exploring AI integrations with Spring AI, Microservices Architecture, and Cloud-Native Development.<br>
+👯 Looking to collaborate on open-source Spring Boot and Java backend projects.<br>
+💬 Ask me about Java, Spring Boot, Spring AI, Hibernate, REST APIs, Microservices, JPA, SQL, and Backend Development.<br>
+⚡ Fun fact: I enjoy solving coding challenges, building scalable backend systems, and exploring new Java libraries and frameworks in my free time.
+
 
 
 ## 🌐 Socials:
