@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 Currently working on Java, Spring Boot, Spring AI, Hibernate, and SQL-based backend applications.<br>🌱 Exploring AI integrations with Spring AI, Microservices Architecture, and Cloud-Native Development.<br>👯 Looking to collaborate on open-source Spring Boot and Java backend projects.<br>💬 Ask me about Java, Spring Boot, Spring AI, Hibernate, REST APIs, Microservices, JPA, SQL, and Backend Development.<br>⚡ Fun fact: I enjoy solving coding challenges, building scalable backend systems, and exploring new Java libraries and frameworks in my free time.
+
+🔭 Building scalable backend applications with **Java, Spring Boot, Quarkus, Hibernate/JPA, PostgreSQL, and REST APIs**.
+
+🌱 Exploring **Spring AI, LLM Integration, Microservices Architecture, Redis, Keycloak, MinIO, Docker, and Cloud-Native Development**.
+
+👯 Looking to collaborate on **Java, Spring Boot, and AI-powered backend projects**.
+
+💬 Ask me about **Java, Spring Boot, Spring AI, Quarkus, Hibernate, JPA, REST APIs, Microservices, JWT, Redis, PostgreSQL, SQL, and Backend Development**.
+
+⚡ Fun fact: I enjoy solving coding challenges, building scalable backend systems, and exploring new Java technologies.
+
 
 
 ## 🌐 Socials:
