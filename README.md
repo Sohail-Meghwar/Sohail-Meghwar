@@ -1,25 +1,168 @@
-# 💫 About Me:
+---
 
-🔭 Building scalable backend applications with **Java, Spring Boot, Quarkus, Hibernate/JPA, PostgreSQL, and REST APIs**.
+## 🧑‍💻 About Me
 
-🌱 Exploring **Spring AI, LLM Integration, Microservices Architecture, Redis, Keycloak, MinIO, Docker, and Cloud-Native Development**.
+```java
+public class Sohail {
 
-👯 Looking to collaborate on **Java, Spring Boot, and AI-powered backend projects**.
+    String role = "Java Backend Developer";
+    String location = "Pakistan 🇵🇰";
+    String education = "B.E. Software Engineering — Mehran University of Engineering & Technology";
 
-💬 Ask me about **Java, Spring Boot, Spring AI, Quarkus, Hibernate, JPA, REST APIs, Microservices, JWT, Redis, PostgreSQL, SQL, and Backend Development**.
+    String[] currently = {
+        "Enterprise Backend Systems",
+        "Microservices Architecture",
+        "Spring AI & LLM Integration"
+    };
 
-⚡ Fun fact: I enjoy solving coding challenges, building scalable backend systems, and exploring new Java technologies.
+    String[] expertise = {
+        "Java",
+        "Spring Boot",
+        "Quarkus",
+        "REST APIs",
+        "Hibernate/JPA",
+        "PostgreSQL",
+        "Redis",
+        "Keycloak"
+    };
 
+    String passion =
+        "Building secure, scalable, and high-performance backend applications.";
 
+    String funFact =
+        "I enjoy turning complex business requirements into clean backend solutions ☕";
+}
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SohailMeghwar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sohailkarmani16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohailkarmani16@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sohail-Meghwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sohail-Meghwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sohail-Meghwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 What I'm Building
 
- 
+### 🏢 Enterprise Employee Management System
+
+Enterprise backend application with secure authentication, asynchronous report generation, and file storage.
+
+**Features**
+
+- REST APIs
+- JWT Authentication
+- Keycloak Authentication
+- Redis Job Tracking
+- MinIO File Storage
+- PDF Report Generation
+- PostgreSQL Database
+
+`Java` `Spring Boot` `Quarkus` `PostgreSQL` `Redis` `Keycloak` `MinIO`
+
+---
+
+### 📄 Report Generation System
+
+Asynchronous report generation using Redis and BIRT with background processing and status tracking.
+
+`Java` `Quarkus` `Redis` `BIRT` `PostgreSQL`
+
+---
+
+### 🔐 Authentication & Authorization
+
+Secure authentication service using Keycloak, JWT, and OAuth2 for enterprise applications.
+
+`Spring Security` `Keycloak` `JWT` `OAuth2`
+
+---
+
+### 🤖 Currently Learning
+
+Building AI-powered backend applications using Spring AI while exploring Microservices, Apache Kafka, Docker, Kubernetes, and AWS.
+
+`Spring AI` `Kafka` `Docker` `Kubernetes` `AWS`
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Languages
+
+`Java` `SQL`
+
+---
+
+### ⚙️ Backend
+
+`Spring Boot`
+`Quarkus`
+`Spring Security`
+`Spring Data JPA`
+`Hibernate`
+`REST APIs`
+`JWT`
+`Microservices`
+
+---
+
+### 🗄️ Databases & Storage
+
+`PostgreSQL`
+`MySQL`
+`Redis`
+`MinIO`
+
+---
+
+### ☁️ Cloud & Tools
+
+`Docker`
+`Git`
+`GitHub`
+`Maven`
+`Postman`
+`VS Code`
+`GitHub Actions`
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+
+---
+
+## 🏆 Achievements & Certifications
+
+| 🏅 | Achievement | Year |
+| --- | --- | --- |
+| ☁️ | **AWS Cloud Technical Essentials** — Amazon Web Services (Coursera) | 2025 |
+| 💼 | **Java Backend Developer Intern** — Teresol Pvt Ltd | 2026 |
+| 🎓 | **Bachelor of Engineering (Software Engineering)** — MUET | 2025 |
+
+---
+
+## 📈 Contribution Graph
+
+<!-- GitHub Contribution Graph -->
+
+---
+
+## 💼 Work Experience
+
+```text
+🏢  Teresol Pvt Ltd                                  Jun 2026 – Present
+    Java Backend Developer Intern
+
+    ✦  Developed enterprise REST APIs using Java & Quarkus
+    ✦  Built secure backend services with PostgreSQL
+    ✦  Implemented Redis for asynchronous report processing
+    ✦  Integrated Keycloak authentication and JWT security
+    ✦  Generated PDF reports using BIRT
+    ✦  Managed file storage using MinIO
+    ✦  Collaborated with frontend developers and API integration
+```
+
+---
+
+### 🤝 Open to Opportunities
+
+*Looking for Java Backend Developer, Spring Boot Developer, Backend Engineer, and Microservices Developer opportunities.*
+
+*Let's build secure, scalable, and production-ready backend applications together.*
