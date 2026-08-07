@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sohail Meghwar
+# Hi 👋 I'm Sohail Meghwar
 
 ## 🧑‍💻 About Me
 
@@ -6,206 +6,271 @@
 public class Sohail {
 
     String role = "Java Backend Developer";
-    String location = "Pakistan 🇵🇰";
+    String location = "Islamabad, Pakistan 🇵🇰";
     String education =
         "B.E. Software Engineering — Mehran University of Engineering & Technology";
 
     String[] currently = {
         "Enterprise Backend Systems",
-        "Microservices Architecture",
-        "Spring AI & LLM Integration"
+        "Microservices",
+        "REST APIs",
+        "Spring AI"
     };
 
     String[] expertise = {
         "Java",
         "Spring Boot",
         "Quarkus",
-        "REST APIs",
-        "Hibernate/JPA",
         "Spring Security",
+        "Hibernate/JPA",
         "PostgreSQL",
+        "MySQL",
         "Redis",
-        "Keycloak",
-        "MinIO"
+        "Keycloak"
     };
 
     String passion =
-        "Building secure, scalable, and high-performance backend applications.";
+        "Building secure, scalable and maintainable backend applications using modern Java technologies.";
 
     String funFact =
-        "I enjoy solving backend challenges while learning new Java technologies ☕";
+        "I enjoy solving backend challenges and continuously learning new Java technologies ☕";
 }
 ```
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
 ### 🏢 Enterprise Employee Management System
 
-Enterprise backend application with secure authentication, asynchronous report generation, and scalable architecture.
+Enterprise backend system built using Java and Quarkus with secure authentication, asynchronous report generation, and scalable architecture.
 
-**Features**
+### Features
 
 - RESTful APIs
-- JWT Authentication
-- Keycloak Integration
-- Redis Job Tracking
+- Microservices
+- PostgreSQL
+- Redis
+- Keycloak Authentication
 - MinIO File Storage
-- PDF Report Generation (BIRT)
-- PostgreSQL Database
+- BIRT Report Generation
 
-`Java` `Spring Boot` `Quarkus` `PostgreSQL` `Redis` `Keycloak` `MinIO`
-
----
-
-### 📄 Report Generation System
-
-Asynchronous PDF report generation with Redis-based job tracking and background processing.
-
-`Java` `Quarkus` `Redis` `BIRT` `PostgreSQL`
+`Java` `Quarkus` `PostgreSQL` `Redis` `Keycloak` `MinIO`
 
 ---
 
-### 🔐 Authentication & Authorization
+### 📄 Spring Boot Blog API
 
-Secure authentication and authorization using Keycloak, JWT, and OAuth2.
+Secure REST API with JWT authentication, role-based authorization, DTO architecture, and Swagger documentation.
 
-`Spring Security` `Keycloak` `JWT` `OAuth2`
+`Spring Boot` `Spring Security` `JWT` `MySQL`
 
 ---
 
-### 🤖 Currently Learning
+### 🌦 Weather Web App
+
+Dynamic weather application using external REST APIs with MVC architecture based on JSP and Servlets.
+
+`Java` `JSP` `Servlets` `REST API`
+
+---
+
+### 🏦 Banking System
+
+Console-based banking application implementing real-world banking operations using Core Java, JDBC, and MySQL.
+
+`Java` `JDBC` `MySQL`
+
+---
+
+## ⚡ Currently Learning
 
 - Spring AI
 - LLM Integration
-- Apache Kafka
-- RabbitMQ
 - Docker
-- Kubernetes
+- Cloud Development
+- Microservices
 - AWS
-- GitHub Actions CI/CD
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### ☕ Languages
+## ☕ Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
----
-
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+`Java`
+`SQL`
+`JavaScript`
+`HTML`
+`CSS`
 
 ---
 
-### 🗄️ Databases & Storage
+## ⚙️ Backend
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![MinIO](https://img.shields.io/badge/MinIO-C72E29?style=for-the-badge)
-
----
-
-### 🔐 Security
-
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+`Spring Boot`
+`Quarkus`
+`Spring Security`
+`Spring Data JPA`
+`Hibernate`
+`JDBC`
+`REST APIs`
+`Microservices`
 
 ---
 
-### ☁️ DevOps & Tools
+## 🗄️ Databases
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+`PostgreSQL`
+`MySQL`
+`Redis`
 
 ---
 
-## 📊 GitHub Stats
+## ☁️ Cloud & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Achievements & Certifications
-
-| 🏅 | Achievement | Year |
-| --- | --- | --- |
-| ☁️ | AWS Cloud Technical Essentials — Coursera | 2025 |
-| 💼 | Java Backend Developer Intern — Teresol Pvt Ltd | 2026 |
-| 🎓 | Bachelor of Engineering (Software Engineering) | 2025 |
+`Git`
+`GitHub`
+`Docker`
+`AWS`
+`VS Code`
+`Eclipse`
+`Postman`
+`BIRT`
+`Keycloak`
+`MinIO`
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Stats
 
-[![Sohail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+<!-- GitHub Stats Card -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohail-Meghwar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-Meghwar&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sohail-Meghwar&theme=tokyonight)
 
 ---
 
-## 💼 Work Experience
+# 🏆 Certifications
+
+🏅 HackerRank Certified
+
+🏅 AWS Cloud Technical Essentials
+
+🏅 Java Programming (Durgesh Sir)
+
+🏅 Spring & Spring Boot: AI, Security, Docker & Cloud (Udemy)
+
+---
+
+# 📈 Contribution Graph
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohail-Meghwar&theme=tokyo-night)](https://github.com/Sohail-Meghwar)
+
+---
+
+# 💼 Work Experience
 
 ```text
-🏢 Teresol Pvt Ltd                         Jun 2026 – Present
+🏢 Teresol Pvt Ltd                                Jun 2026 – Present
    Java Backend Developer Intern
 
-   ✦ Developed RESTful APIs using Java & Quarkus
-   ✦ Built enterprise backend services with PostgreSQL
-   ✦ Implemented Redis for asynchronous report processing
-   ✦ Integrated Keycloak authentication and JWT security
-   ✦ Generated PDF reports using BIRT
-   ✦ Managed file storage using MinIO
-   ✦ Collaborated with frontend developers and API integration
+   ✦ Developing Microservices using Java & Quarkus
+   ✦ Building RESTful APIs for enterprise applications
+   ✦ PostgreSQL database development
+   ✦ Redis-based asynchronous report processing
+   ✦ Keycloak authentication integration
+   ✦ MinIO file storage integration
+   ✦ BIRT report generation
+```
+
+```text
+🏢 DevelopersHub Corporation                    Mar 2026 – Apr 2026
+   Backend Developer Intern
+
+   ✦ Developed secure REST APIs using Spring Boot
+   ✦ Implemented Spring Security authentication
+   ✦ Integrated Hibernate & MySQL
+   ✦ Improved application performance and maintainability
 ```
 
 ---
 
-## 🌱 Currently Exploring
+# 🚀 Featured Projects
 
-- Spring AI
-- LLM Integration
-- Apache Kafka
-- RabbitMQ
-- Docker & Kubernetes
-- AWS Cloud
-- Microservices Architecture
-- CI/CD with GitHub Actions
+### 👨‍💼 Employee Management System
+
+- Java & Quarkus
+- REST APIs
+- PostgreSQL
+- BIRT Reports
+- Layered Architecture
+- JDBC
 
 ---
 
-## 🤝 Connect with Me
+### 📝 Spring Boot Blog API
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL@gmail.com
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- Spring Boot
+- JWT Authentication
+- Spring Security
+- MySQL
+- Swagger
+- Spring Data JPA
+
+---
+
+### 🌦 Weather Web App
+
+- Java
+- JSP
+- Servlets
+- REST API
+- MVC Architecture
+
+---
+
+### 🏦 Banking System
+
+- Core Java
+- JDBC
+- MySQL
+- OOP
+- Exception Handling
+
+---
+
+# 🤝 Connect with Me
+
+📧 **Email:** sohailkarmani16@gmail.com
+
+💼 **LinkedIn:** linkedin.com/in/sohail-meghwar
+
+💻 **GitHub:** github.com/Sohail-Meghwar
 
 ---
 
 ## 💡 Quote
 
-> *"First, solve the problem. Then, write clean and maintainable code."*
+> *"Building clean, scalable, and reliable backend solutions with Java."*
 
 ---
 
 ### 🤝 Open to Opportunities
 
-**Looking for opportunities as a Java Backend Developer, Spring Boot Developer, Backend Engineer, or Microservices Developer.**
+I'm open to:
 
-*Let's build secure, scalable, and production-ready backend applications together! 🚀*
+✅ Java Backend Developer
+
+✅ Spring Boot Developer
+
+✅ Backend Engineer
+
+✅ Microservices Developer
+
+✅ Software Engineer
+
+Let's build scalable backend systems together! 🚀
