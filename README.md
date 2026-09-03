@@ -175,7 +175,7 @@ Console-based banking application implementing real-world banking operations usi
 # 💼 Work Experience
 
 ```text
-🏢 Teresol Pvt Ltd                                Jun 2026 – Present
+🏢 Teresol Pvt Ltd                                Jun 2026 – Aug 2026
    Java Backend Developer Intern
 
    ✦ Developing Microservices using Java & Quarkus
